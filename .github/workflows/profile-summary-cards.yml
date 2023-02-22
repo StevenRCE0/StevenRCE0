@@ -16,6 +16,7 @@ jobs:
       - uses: actions/checkout@v2
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
+          UTC_OFFSET: 8
           GITHUB_TOKEN: ${{ secrets.SUMMARYCARD }}
         with:
           USERNAME: ${{ github.repository_owner }}
