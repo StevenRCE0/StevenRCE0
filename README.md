@@ -12,6 +12,7 @@ Here are my repositories, most of them are just hobbies, some do work by chance!
 | Painting 🎨 | n/a | 0.9 |
 | Photography 📸 | n/a | 0.8 |
 | Jogging 🏃 | 0.7 | 0.7 |
+| Lingo 💬 | n/a | 0.7 |
 | Philosophy⛓️ | 0.1 | 0.6 |
 | Cycling 🚴 | 0.8 | 0.5 |
 | Railway 🚃 | 0.2 | 0.4 |
