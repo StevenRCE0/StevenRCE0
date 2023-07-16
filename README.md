@@ -1,3 +1,22 @@
+# Greetings!
+
+I’m Steven Wong, currently working on CHI/UX experiments. Besides, I develop React/Next.js and SwiftUI applications, as well as some ML stuff which are really common. 
+
+Here are my repositories, most of them are just hobbies, some do work by chance!
+
+## Hobbies
+
+| Hobby | Acquaintance | Affection |
+|---|---|---|
+| Reading 📖 | n/a | 1.0 |
+| Painting 🎨 | n/a | 0.9 |
+| Photography 📸 | n/a | 0.8 |
+| Jogging 🏃 | 0.7 | 0.7 |
+| Philosophy⛓️ | 0.1 | 0.6 |
+| FPGA 🎛️ | 0.1 | 0.4 |
+
+# Statics
+
 [![](https://raw.githubusercontent.com/StevenRCE0/StevenRCE0/master/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/StevenRCE0/StevenRCE0/master/profile-summary-card-output/default/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/StevenRCE0/StevenRCE0/master/profile-summary-card-output/default/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/StevenRCE0/StevenRCE0/master/profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/StevenRCE0/StevenRCE0/master/profile-summary-card-output/default/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
