@@ -20,6 +20,22 @@ Here are my repositories, most of them are just hobbies, some do work by chance!
 | FPGA 🎛️ | 0.1 | 0.4 |
 | Guitar 🎸 | 0.1 | 0.2 |
 
+## Stack
+
+General
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,gitlab,docker,swift,c,py,go,arduino,processing,bash,powershell,figma,ai,svg,md,regex,mastodon&perline=8" />
+  </a>
+</p>
+
+Frontend + JS
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=css,html,js,ts,react,materialui,nextjs,nodejs,svelte,threejs,vercel,codepen&perline=8" />
+  </a>
+</p>
+
 # Statics
 
 [![](https://raw.githubusercontent.com/StevenRCE0/StevenRCE0/master/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
