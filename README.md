@@ -1,8 +1,10 @@
 # Greetings!
 
-I’m Steven Wong, currently working on CHI/UX experiments. Besides, I develop React/Next.js and SwiftUI applications as well as some ML stuff which are really common. 
+I’m Steven Wong, currently working on [CHI/UX experiments](https://github.com/CoilsSIGHCI). 
 
-Here are my repositories, most of them are just hobbies, some do work by chance!
+Besides, I develop React/Next.js and SwiftUI applications as well as some ML stuff which are really common. 
+
+Here are my repositories, most of them are just hobbies, some do work by chance! Don't forget to check out my organisation [CoilsSIGCHI](https://github.com/CoilsSIGHCI) for those experimental projects. 
 
 ## Hobbies
 
