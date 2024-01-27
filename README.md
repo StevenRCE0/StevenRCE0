@@ -34,7 +34,7 @@ General
 Frontend + JS
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,html,js,ts,react,materialui,nextjs,nodejs,svelte,threejs,vercel,codepen&perline=8" />
+    <img src="https://skillicons.dev/icons?i=css,html,js,ts,react,materialui,nextjs,electron,nodejs,svelte,threejs,vercel,codepen&perline=8" />
   </a>
 </p>
 
