@@ -1,6 +1,6 @@
 # Greetings!
 
-I’m Steven Wong, currently working on [CHI/UX experiments](https://github.com/CoilsSIGHCI). 
+I’m Yanbo Wong, currently working on [CHI/UX experiments](https://github.com/CoilsSIGHCI). 
 
 Besides, I develop React/Next.js and SwiftUI applications as well as some ML stuff which are really common. 
 
@@ -19,7 +19,6 @@ Here are my repositories, most of them are just hobbies, some do work by chance!
 | Cycling 🚴 | 0.8 | 0.5 |
 | Railway 🚃 | 0.2 | 0.4 |
 | Splatoon 🦑 | 0.3 | 0.4 |
-| FPGA 🎛️ | 0.1 | 0.4 |
 | Guitar 🎸 | 0.1 | 0.2 |
 
 ## Stack
