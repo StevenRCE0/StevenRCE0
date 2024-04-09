@@ -26,14 +26,14 @@ Here are my repositories, most of them are just hobbies, some do work by chance!
 General
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,gitlab,docker,swift,c,py,go,kotlin,arduino,processing,bash,powershell,autocad,figma,ai,svg,md,regex,mastodon,bsd&perline=8" />
+    <img src="https://skillicons.dev/icons?i=git,gitlab,docker,swift,c,py,go,kotlin,arduino,raspberrypi,processing,p5js,bash,powershell,autocad,figma,ai,svg,md,regex,mastodon,bsd&perline=8" />
   </a>
 </p>
 
 Frontend + JS
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,html,js,ts,react,materialui,nextjs,electron,nodejs,svelte,threejs,vercel,codepen&perline=8" />
+    <img src="https://skillicons.dev/icons?i=css,html,js,ts,wasm,react,materialui,nextjs,electron,nodejs,svelte,threejs,vercel,codepen&perline=8" />
   </a>
 </p>
 
