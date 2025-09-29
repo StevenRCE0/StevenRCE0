@@ -1,6 +1,6 @@
 # Greetings!
 
-I’m Yanbo Wong, currently working on [CHI/UX experiments](https://github.com/orgs/CoilsSIGHCI/repositories). 
+I’m Yanbo Wong, currently working on personal [CHI/UX experiments](https://github.com/orgs/CoilsSIGHCI/repositories) and projects at University of Arts London, a graduate of Tianjin Polytechnic University and a member of its fascinating [I/O Club](https://github.com/io-club). 
 
 Besides, I develop React/Next.js and SwiftUI applications as well as some ML stuff which are really common. 
 
